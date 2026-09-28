@@ -8,7 +8,7 @@
     <strong>Universidad de Santiago de Chile</strong><br>
     <strong>Facultad de Ingeniería</strong><br>
     <strong>Departamento de Ingeniería Geoespacial y Ambiental</strong><br>
-    <em>2do Semestre 2025</em>
+    <em>2do Semestre 2026</em>
   </p>
 </div>
 
@@ -87,17 +87,17 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 
     * **Opción 1 (HTTPS):**
         ```bash
-        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2025.git](https://github.com/iyanezUSACH/DyDAT_2s_2025.git)
+        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2026.git](https://github.com/iyanezUSACH/DyDAT_2s_2026.git)
         ```
 
     * **Opción 2 (SSH, para usuarios avanzados):**
         ```bash
-        git clone git@github.com:iyanezUSACH/DyDAT_2s_2025.git
+        git clone git@github.com:iyanezUSACH/DyDAT_2s_2026.git
         ```
 
 4.  **Ingresa a la carpeta** que acabas de crear:
     ```bash
-    cd DyDAT_2s_2025
+    cd DyDAT_2s_2026
     ```
 
 ✅ ¡Listo! Ahora tienes todos los archivos del curso en tu computador. Para actualizarlos más adelante, solo necesitarás navegar a esta carpeta y ejecutar el comando `git pull`.
